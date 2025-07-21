@@ -4,3 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+
+.star {
+  font-size: 30px;
+  cursor: pointer;
+}
+.gold {
+  color: gold;
+}
